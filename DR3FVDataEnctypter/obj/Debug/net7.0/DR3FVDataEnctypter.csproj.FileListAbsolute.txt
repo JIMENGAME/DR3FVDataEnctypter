@@ -1,0 +1,15 @@
+H:\Users\Administrator\RiderProjects\DR3FVDataEnctypter\DR3FVDataEnctypter\bin\Debug\net7.0\DR3FVDataEnctypter.exe
+H:\Users\Administrator\RiderProjects\DR3FVDataEnctypter\DR3FVDataEnctypter\bin\Debug\net7.0\DR3FVDataEnctypter.deps.json
+H:\Users\Administrator\RiderProjects\DR3FVDataEnctypter\DR3FVDataEnctypter\bin\Debug\net7.0\DR3FVDataEnctypter.runtimeconfig.json
+H:\Users\Administrator\RiderProjects\DR3FVDataEnctypter\DR3FVDataEnctypter\bin\Debug\net7.0\DR3FVDataEnctypter.dll
+H:\Users\Administrator\RiderProjects\DR3FVDataEnctypter\DR3FVDataEnctypter\bin\Debug\net7.0\DR3FVDataEnctypter.pdb
+H:\Users\Administrator\RiderProjects\DR3FVDataEnctypter\DR3FVDataEnctypter\obj\Debug\net7.0\DR3FVDataEnctypter.csproj.AssemblyReference.cache
+H:\Users\Administrator\RiderProjects\DR3FVDataEnctypter\DR3FVDataEnctypter\obj\Debug\net7.0\DR3FVDataEnctypter.GeneratedMSBuildEditorConfig.editorconfig
+H:\Users\Administrator\RiderProjects\DR3FVDataEnctypter\DR3FVDataEnctypter\obj\Debug\net7.0\DR3FVDataEnctypter.AssemblyInfoInputs.cache
+H:\Users\Administrator\RiderProjects\DR3FVDataEnctypter\DR3FVDataEnctypter\obj\Debug\net7.0\DR3FVDataEnctypter.AssemblyInfo.cs
+H:\Users\Administrator\RiderProjects\DR3FVDataEnctypter\DR3FVDataEnctypter\obj\Debug\net7.0\DR3FVDataEnctypter.csproj.CoreCompileInputs.cache
+H:\Users\Administrator\RiderProjects\DR3FVDataEnctypter\DR3FVDataEnctypter\obj\Debug\net7.0\DR3FVDataEnctypter.dll
+H:\Users\Administrator\RiderProjects\DR3FVDataEnctypter\DR3FVDataEnctypter\obj\Debug\net7.0\refint\DR3FVDataEnctypter.dll
+H:\Users\Administrator\RiderProjects\DR3FVDataEnctypter\DR3FVDataEnctypter\obj\Debug\net7.0\DR3FVDataEnctypter.pdb
+H:\Users\Administrator\RiderProjects\DR3FVDataEnctypter\DR3FVDataEnctypter\obj\Debug\net7.0\DR3FVDataEnctypter.genruntimeconfig.cache
+H:\Users\Administrator\RiderProjects\DR3FVDataEnctypter\DR3FVDataEnctypter\obj\Debug\net7.0\ref\DR3FVDataEnctypter.dll
